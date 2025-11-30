@@ -1,0 +1,32 @@
+# ========== SYSTEM FILES ==========
+.DS_Store
+Thumbs.db
+
+# ========== PHP / GENERAL ==========
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+
+# ========== ENV / CONFIG ==========
+.env
+.env.local
+config.php
+database.php
+
+
+# ========== UPLOADS (gambar produk) ==========
+public/uploads/
+public/uploads/*
+
+# ========== COMPOSER ==========
+vendor/
+composer.lock
+
+# ========== IDE / EDITOR ==========
+.vscode/
+.idea/
+
+# ========== XAMPP cache ==========
+/tmp/
