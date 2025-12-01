@@ -325,15 +325,16 @@ Berikut contoh langkah-langkah untuk menguji sistem CRUD:
 
 `Konfirmasi Penghapusan`
 
-![Konfirm](../screenshots/konfirm%20delete.png)
+![Konfirm](/screenshots/konfirmDelete.png)
+
 
 `Penghapusan Berhasil`
 
-![Succes](../screenshots/succes%20delete%20.png)
+![Succes](/screenshots/succesDelete.png)
 
 `Daftar produk setelah proses delete`
 
-![delete](../screenshots/delete.png)
+![delete](/screenshots/delete.png)
 ---
-
+ 
 
